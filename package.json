@@ -33,7 +33,7 @@
   "main": "index.js",
   "name": "save-dev",
   "scripts": {
-    "test": "./node_modules/.bin/mocha tests.js"
+    "test": "mocha tests.js"
   },
   "version": "2.0.0",
   "devDependencies": {
